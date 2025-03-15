@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 3 Songs</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            text-align: center;
+        }
+        .container h1 {
+            color: #333;
+        }
+        .button {
+            display: block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>TOP 3 SONGS THAT MAKES ME THINK ABOUT YOU ALL THE TIME (SALA MO NI. JOKE)</h1>
+        <a class="button" href="https://youtu.be/hNuFrg04bHg?si=iv9EOevLIN1qvTEQ" target="_blank">Song 1</a>
+        <a class="button" href="https://youtu.be/intisXdsqYM?si=KN0q3vheWijNW-UI" target="_blank">Song 2</a>
+        <a class="button" href="https://youtu.be/2g5xkLqIElU?si=rcglxdob0H2aBH1i" target="_blank">Song 3</a>
+        <p>I'm sorry but there was an error. Please try again.</p>
+    </div>
+</body>
+</html>
